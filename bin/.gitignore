@@ -1,5 +1,10 @@
 <<<<<<< HEAD
 /user/
+<<<<<<< HEAD
+/GameManager/
+/deckManagement/
+/unitTests/
+=======
 /deckManagement/
 /network/
 /resources/
@@ -17,3 +22,4 @@
 /network/
 /gui/
 >>>>>>> 2d7fe23513c48610bd650e0e077a328e507f7b26
+>>>>>>> c9280237b0f79aeca39168157877dc01b19534c6
